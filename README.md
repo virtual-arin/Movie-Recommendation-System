@@ -29,9 +29,9 @@ Add in code:
             api_key = "YOUR_API_KEY"
 
 📌 Project Files
-`app.py` – Streamlit app
-`model.pkl` – similarity model
-`movies.pkl` – dataset
+app.py – Streamlit app
+model.pkl – similarity model
+movies.pkl – dataset
 
 📬 Contact
-Gmail ID: arinsharma.global@gmail.coom
+Mail: arinsharma.global@gmail.coom
